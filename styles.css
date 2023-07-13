@@ -1,0 +1,27 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+body {
+    background-color: #eee;
+}
+
+ul, ol{
+    background-color: #fff;
+    padding: 10px;
+}
+
+li {
+    background-color: #e3f4ff;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+ul li{
+    list-style-type: none;
+}
+h2 {
+    text-align: center;
+}
